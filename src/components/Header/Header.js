@@ -18,8 +18,8 @@ const Header = () => {
                             <Link className='header-link' to="/about">About Us</Link>
                             <Link className='header-link' to="/service">Services</Link>
                             <Link className='header-link' to="/event">Events</Link>
-                            <Link className='header-link ms-5' to="/contact">Call Support: 00162584254</Link>
-                            <Link className='header-link' to="/contact">Email Support: info@granduv.com</Link>
+                            <Link className='header-link ms-auto' to="/contact">Call Support: 00162584254</Link>
+                            <Link className='header-link ms-auto' to="/contact">Email Support: info@granduv.com</Link>
                         
                     </Navbar.Collapse>
                 </Container>
