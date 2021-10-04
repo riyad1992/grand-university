@@ -1,0 +1,25 @@
+
+.home-bg-img{
+    background-image: url('../../Images/bg.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.customized-background{
+    background-color: #2838A2;
+}
+.customized-btn-bg{
+    background-color: #11CB9F;
+}
+.title-color{
+    color: #11CB9F;
+    
+}
+
+@media only screen and (max-width: 400px) {
+    .font-size{
+        font-size: 11px;
+    }
+    
+}

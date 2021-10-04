@@ -1,0 +1,62 @@
+[
+    {
+        "titel":"Bachelor of Arts",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-N2pcYJU2wZjPy_rxAXqsTlPHK7XpIZBWg&usqp=CAU",
+        "details":"A passion for serving others and the desire to make the world a better place are the reasons why students choose to study public policy.",
+        "cost":"7999"
+    },
+    {
+        "titel":"Bachelor of Science",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTismyHjMRAUs5ta_a00uhkxJkYK3Gb-fS-pQ&usqp=CAU",
+        "details":"The Bachelor of Science in Applied Business Analytics from GCU is designed for students who have both a business mindset and an interest",
+        "cost":"4999"
+    },
+    {
+        "titel":"Bachelor of Arts in Communications",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CxWL-mq4dKbgO-ABGbK81Uf8QK-LZd_h_A&usqp=CAU",
+        "details":"A bachelor's degree in communication introduces undergraduates to topics like technical communication, mass communication, and public relations.",
+        "cost":"7799"
+    },
+    {
+        "titel":"Bachelor of Science in Athletic Training",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2XBgFO7YDRt1RX2O1pZEmyMOL_bXNRkjJQ&usqp=CAU",
+        "details":"The Bachelor of Science (BS) in Athletic Training degree at Grand Canyon University (GCU) gives graduates hands-on experience at becoming athletic trainers.",
+        "cost":"6959"
+    },
+    {
+        "titel":"Bachelor of Science in Behavioral Health Science",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagGL_oIDI4fQ7WmG1J181hM00WpXiYrmyfw&usqp=CAU",
+        "details":"Behavioral health science is the study of human behavior and interaction. Specifically, the GCU Bachelor of Science in Behavioral Health Science (BHS) program includes the study of the",
+        "cost":"5999"
+    },
+    {
+        "titel":"Bachelor of Arts in Advertising and Graphic Design",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQApLc_UKYlQZHR6tWaRMNjHzDezuYGLO7A&usqp=CAU",
+        "details":"Advertising and graphic design is a field for creative thinkers who are also effective problem solvers. Advertising and design professionals collaborate with their co-workers and clients to present brands in a desirable light across multiple mediums. ",
+        "cost":"9999"
+    },
+    {
+        "titel":"Bachelor of Arts in Dance",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkoDp8N_-1M9gT8q2yY92FLmKd72da0UsRg&usqp=CAU",
+        "details":"A Bachelor of Arts in Dance degree from GCU prepares you for a future career in the arts. Dance majors who graduate from this program may enter the professional realm of concert dance, commercial dance, musical theatre, or studio dance teaching..",
+        "cost":"8999"
+    },
+    {
+        "titel":"Bachelor of Science in Counseling",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzX9ehfdpsw3AeMtQdp1vE5EzkZCE5nZ2sAw&usqp=CAU",
+        "details":"Addiction is a disease that tears apart families, ruins lives and adversely affects whole communities. As an aspiring substance abuse counselor, you can make a difference. Enroll in Grand Canyon University’s Bachelor of Science in Counseling with an Emphasis in Addiction, ",
+        "cost":"8799"
+    },
+    {
+        "titel":"Bachelor of Arts in History for Secondary Education",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqSJzv8MXeR-cyKXXvxPW7NPG2ToDKGitMg&usqp=CAU",
+        "details":"The Bachelor of Arts in History for Secondary Education degree program at Grand Canyon University recognizes that middle and high school history teachers do more than teach facts, events and dates—they impart ethical standards and wisdom developed over centuries of human history.",
+        "cost":"6999"
+    },
+    {
+        "titel":"Bachelor of Arts in Worship Arts",
+        "img":"https://catawba.edu/files/7714/0664/0597/worshiparts-photo.jpg",
+        "details":"The BA in Worship Arts with an Emphasis in Worship Ministry program at GCU prepares students for careers in worship leadership and ministry. The worship ministry emphasis allows GCU students to focus on the creativity, artistry, musical ability and performance aspects of ministerial leadership.",
+        "cost":"7999"
+    }
+]
